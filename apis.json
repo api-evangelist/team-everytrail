@@ -1,0 +1,84 @@
+{
+    "name": "Team EveryTrail",
+    "description": "Search 50,000 trails with detailed reviews, photos and maps curated by millions of hikers, campers, and nature lovers like you.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/778-team-everytrail.jpg",
+    "tags": [
+        "geotagging",
+        "have api",
+        "locations",
+        "social",
+        "trails",
+        "trip planning"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/team-everytrail\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Team EveryTrail",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/778-team-everytrail.jpg",
+            "humanURL": "http:\/\/www.everytrail.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/team-everytrail-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/team-everytrail-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "http:\/\/www.everytrail.com\/api\/"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.everytrail.com\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/blog.everytrail.com\/?feed=rss2"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/everytrail"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/alltrails-com"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/www.everytrail.com\/developer"
+        },
+        {
+            "type": "Email",
+            "url": "api@GlobalMotion.com."
+        },
+        {
+            "type": "Email",
+            "url": "support@alltrails.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/#!\/everytrail"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/AllTrails"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.everytrail.com"
+        }
+    ]
+}
